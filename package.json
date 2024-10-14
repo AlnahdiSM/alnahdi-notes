@@ -1,0 +1,26 @@
+{
+  "name": "alnahdi-notes",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.6.0",
+    "@fortawesome/fontawesome-svg-core": "^6.6.0",
+    "animate.css": "^4.1.1",
+    "appwrite": "^14.0.1",
+    "next": "14.2.11",
+    "react": "^18",
+    "react-dom": "^18"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "typescript": "^5"
+  }
+}
